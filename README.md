@@ -1,8 +1,8 @@
 # MAE 598 RL in R
 Training (100 epochs):
 ![alt text](https://github.com/sangeetsu/DQLL/blob/master/train100.png)
-Initial Training:
-![alt text](https://github.com/sangeetsu/DQLL/blob/master/training.png)
+<!--Initial Training:
+![alt text](https://github.com/sangeetsu/DQLL/blob/master/training.png)-->
 Validation:
 ![alt text](https://github.com/sangeetsu/DQLL/blob/master/val14.png)
 # DQLL
